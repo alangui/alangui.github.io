@@ -1,8 +1,8 @@
 # Site settings
-title: Your Blog
-SEOTitle: 你的博客 | Your Blog
-header-img: img/home-bg.jpg
-email: huxpro@gmail.com
+title: Gjk Blog
+SEOTitle: 桂进康的博客 | Gjk Blog
+header-img: img/post-bg-unix-linux.jpg
+email: 2516394328@qq.com
 description: ""
 keyword: ""
 url: "https://alangui.github.io"              # your host, for absolute URL
@@ -15,7 +15,6 @@ RSS: false
 weibo_username:     huxpro
 zhihu_username:     huxpro
 github_username:    huxpro
-#twitter_username:  huxpro
 facebook_username:  huxpro
 
 
@@ -69,7 +68,7 @@ ga_domain: huangxuan.me
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
 sidebar-about-description: "写写代码，做做设计，看看产品。世界那么大，多玩玩看看。"
-sidebar-avatar: /img/avatar-hux.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
+sidebar-avatar: /img/avatar-gjk.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
 
 
 
@@ -81,20 +80,4 @@ featured-condition-size: 1              # A tag will be featured if the size of 
 
 # Friends
 friends: [
-    {
-        title: "Hux Blog",
-        href: "http://huangxuan.me"
-    },{
-        title: "Foo",
-        href: "#"
-    },{
-        title: "Bar",
-        href: "#"
-    },{
-        title: "Example Friends",
-        href: "#"
-    },{
-        title: "It helps SEO",
-        href: "#"
-    }
 ]
