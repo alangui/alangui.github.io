@@ -4,7 +4,7 @@ title:      "快速搭建生产环境联邦学习集群"
 subtitle:   "「KubeFATE」基于k8s部署Fate集群（在线+离线混合模式）"
 date:       2021-10-27 12:00:00
 author:     "小桂子"
-header-img: "img/home-bg-o.jpg"
+header-img: "img/post-bg-linux.jpg"
 tags:
 - k8s
 - KubeFATE
